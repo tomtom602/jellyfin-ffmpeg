@@ -1,0 +1,7 @@
+Hi,
+First, sorry to use these mean to try to contact you, I couldn't find yout mail adress on your page.
+I saw that a few month ago you had the exact same problem I have now : using FilsSystemWatcher in docker container running on a debian host.
+https://github.com/dotnet/runtime/issues/45533
+
+I didn't understand your own answer to the problem.
+Could you please explain it to me ? 
